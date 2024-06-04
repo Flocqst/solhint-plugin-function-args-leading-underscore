@@ -1,0 +1,16 @@
+{
+  "name": "solhint-plugin-function-args-leading-underscore",
+  "version": "1.0.0",
+  "description": "Solhint custom rule to ensure all function parameters are prefixed with an underscore",
+  "main": "solhint-plugin-function-args-leading-underscore.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flocqst/solhint-plugin-function-args-leading-underscore.git"
+  },
+  "author": "Flocqst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flocqst/solhint-plugin-function-args-leading-underscore/issues"
+  },
+  "homepage": "https://github.com/Flocqst/solhint-plugin-function-args-leading-underscore#readme"
+}

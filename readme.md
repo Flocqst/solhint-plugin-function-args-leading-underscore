@@ -1,0 +1,1 @@
+# solhint-plugin-function-args-leading-underscore
